@@ -23,8 +23,4 @@
   - `textblob`: For performing sentiment analysis
   - `transformers`: For text summarization
 
----
-
-### **Installation and Setup**
-
-1. **Clone the Repository**:
+--
